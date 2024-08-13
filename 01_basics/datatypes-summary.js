@@ -24,7 +24,7 @@ console.log(id === anotherId);
 
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
-    name: "hitesh",
+    name: "parv",
     age: 22,
 }
 
@@ -33,5 +33,7 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
